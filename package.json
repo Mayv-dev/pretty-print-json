@@ -1,7 +1,7 @@
 {
   "name": "prettyprintjson",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "pretty-print-json.mjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

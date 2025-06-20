@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const COLOURS = {
   key: "\x1B[31m",
   number: "\x1B[32m",
